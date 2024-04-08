@@ -1,5 +1,6 @@
 streamlit
-Pillow
 tensorflow
 openai
 opencv-python
+image
+numpy
